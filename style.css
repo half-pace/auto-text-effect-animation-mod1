@@ -2,3 +2,14 @@
     margin: 0;
     padding: 0;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    font-family: "Oswald", serif;
+}
